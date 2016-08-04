@@ -1,0 +1,25 @@
+_repo: Happy-Hawkins_3705
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Wason, Robert Alexander
+    birthdate: 1874
+    deathdate: 1955
+    gutenberg_agent_id: '1274'
+    url: http://www.gutenberg.org/2009/agents/1274
+    wikipedia: http://en.wikipedia.org/wiki/Robert_Alexander_Wason
+description: ''
+gutenberg_issued: '2003-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3705'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'West (U.S.) -- Social life and customs -- Fiction'
+- GITenberg
+title: Happy Hawkins
+url: http://www.gutenberg.org/ebooks/3705
