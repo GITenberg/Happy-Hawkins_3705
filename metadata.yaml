@@ -1,5 +1,8 @@
 _repo: Happy-Hawkins_3705
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Wason, Robert Alexander
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1274
     wikipedia: http://en.wikipedia.org/wiki/Robert_Alexander_Wason
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/3705#Happy-Hawkins
 gutenberg_issued: '2003-02-01'
 gutenberg_type: Text
 identifiers:
